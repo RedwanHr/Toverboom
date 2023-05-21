@@ -16,7 +16,7 @@ Veilige en beheersbare omgeving voor leerkrachten.
 Aanpasbaar.
 
 ##Installatie:
-Download de interactieve website van GitHub.
+Download de interactieve website , Project toverboom.zip van GitHub.
 Pak het gedownloade bestand uit naar een gewenste locatie op de server.
 
 ##Gebruik:
